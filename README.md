@@ -1,2 +1,2 @@
-# EcosiaGamr
+# EcosiaGame
 Görsel Programlama Ödevi
